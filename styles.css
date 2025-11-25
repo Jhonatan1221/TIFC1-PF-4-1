@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+
+.weather-container {
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+.result-box {
+    margin-top: 20px;
+}
